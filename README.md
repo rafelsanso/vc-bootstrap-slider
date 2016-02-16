@@ -12,5 +12,5 @@ Download the plugin and import it into WordPress intall plugins page. Select the
 Active plugin.
 
 ## Dependencies
-#Bootstrap#: The plugin doesn't work if you don't include Bootstrap JS and CSS in your template.
-#Visual composer#: Is the main plugin. If you don't include it, this plugin doesn't work.
+Bootstrap: The plugin doesn't work if you don't include Bootstrap JS and CSS in your template.
+Visual composer: Is the main plugin. If you don't include it, this plugin doesn't work.
