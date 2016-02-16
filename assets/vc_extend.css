@@ -1,0 +1,5 @@
+/* Bootstrap Carousel for VC */
+#bcarousel { position: relative; }
+.bcarousel-controls { position: absolute; bottom: 20px; right: 0; z-index: 10; }
+.bcarousel-controls img { width: 12px; height: 20px; }
+.bcarousel-controls a:hover { text-decoration: none; }
